@@ -2,6 +2,8 @@ This is a repository for our Ono Grindz project.
 
 TO GET STARTED:
 - run ```npm install``` , we need to do this because our npm dependencies 
+
+Steps I used to build my webpack config and Express server~
 Stage 1: successfully initialize node, git repo, webpack and running express backend server.
   - webpack: 
     - current loaders: preset-react, preset-env
